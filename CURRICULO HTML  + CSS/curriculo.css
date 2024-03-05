@@ -1,0 +1,49 @@
+body{
+    
+ background-image: url(rick.png) 
+ 
+}
+
+/*cor do textname*/
+#uppart{
+    color: #88bbbb
+    
+}
+/*TAMANHO E COR DO TEXTO DE NOME*/
+#Textname{
+   
+    font-size: 35px;
+}
+#midpart{
+    color: aquamarine;
+}
+
+/*foto do perfil*/
+#foto{
+    border-radius: 50px;
+}
+/* cor do texto dos botões*/
+.textopost{
+    color: #0f0;
+}
+
+/*DESIGN DO MIDCC*/
+
+#midcc{
+    font-size: 35px;
+    color:aqua
+}
+
+/*DESIGN DO MIDfa*/
+
+#midfa{
+    font-size: 35px;
+    color:aqua
+}
+
+/*DESIGN DO MIdE*/
+
+#midE{
+    font-size: 35px;
+    color: aqua;
+}
