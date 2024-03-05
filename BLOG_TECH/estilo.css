@@ -1,0 +1,69 @@
+
+body{
+    background-image: url(img/duck.gif); 
+}
+#topo{
+    margin-bottom: 20px;
+    
+    width: 100%;
+    height: 50px;
+}
+
+#titulo{
+margin-left: 45%;
+float: left;
+font-family:fantasy;
+font-size: 45px;
+
+}
+
+/*POSTS E SOBRE MIM */
+#perfil{
+    
+    width: 40px;
+    height: 40px;
+    float: right;
+
+}
+/* MENU */
+#menu{
+border: 2px black solid;
+border-radius: 15px;
+font-family: fantasy;
+font-size: 35px;
+width: 100%;
+height: 50px;
+margin-bottom: 30px;
+}
+
+#posts{
+    margin: 5px 5px 2px 5px;
+    float: left ;
+}
+#about {
+    margin: 5px 5px 2px 5px;
+    float: right ;
+}
+
+#lista-postagem{
+border: 5px black solid;
+border-radius: 20px;
+
+width: 200px;
+float: left; 
+
+}
+
+.textpost{
+    margin: 5px 10px 2px 20px;
+
+}
+
+#conteudo{
+color:yellow ;
+ margin-top: 0px;
+ margin-left: 250px;
+ padding-left: 5px;
+
+}
+
