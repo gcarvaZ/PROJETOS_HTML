@@ -1,0 +1,126 @@
+table{
+
+border-collapse: collapse; height: 800px; width: 1500px;
+}
+
+img{
+
+}
+
+td, th{
+
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* AS ID */
+
+#GTAV{
+ font-size: x-large;height: 30px; color: aliceblue;
+ background-color:black;
+ font-family: gtav;
+ 
+}
+
+#GODOFWAR2{
+    font-size: x-large; color:orange;
+    background-color: gray;
+    font-family: godofwar2;
+    
+}
+
+#VALORANT{
+    font-size: x-large; color:red;
+ background-color:navy;
+ font-family: valorant;
+}
+
+#CS2{
+    font-size: x-large; color:rgb(230, 140, 30);
+ background-color:silver;
+ font-family: cs2;
+}
+#MK3{
+    font-size: x-large; color: rgb(62, 66, 69);
+ background-color:black;
+ font-family: mk3;
+}
+
+#NW{
+    font-size: x-large; color:rgb(248, 55, 6);
+ background-color:silver;
+ font-family: nw;
+
+}
+#HALO{
+    font-size: x-large; color:rgb(15, 193, 15);
+ background-color:aqua;
+ font-family: halo;
+}
+#MINECRAFT{
+    font-size: x-large; color: green;
+ background-color:rgb(94, 49, 49);
+ font-family: minecraft;
+}
+#BATMAN{
+    font-size: x-large; color: rgb(6, 6, 6);
+ background-color:rgb(27, 220, 230);
+ font-family: batman;
+}
+#RD2{
+    font-size: x-large; color: rgb(3, 3, 2);
+ background-color:rgb(255, 5, 5);
+ font-family: rd2;
+}
+    
+/*AS FONTES*/
+
+@font-face {
+    font-family:gtav;
+    src: url(FONTES/pricedow.ttf);
+}
+
+@font-face {
+    font-family:godofwar2;
+    src: url(FONTES/GODOFWAR.TTF);
+}
+
+@font-face {
+    font-family:valorant;
+    src: url(FONTES/Valorant\ Font.ttf);
+}
+
+@font-face {
+    font-family:cs2;
+    src: url(FONTES/cs_regular.ttf);
+}
+
+@font-face {
+    font-family:mk3;
+    src: url(FONTES/MKX\ Title.ttf);
+}
+
+@font-face {
+    font-family:nw;
+    src: url();
+}
+
+@font-face {
+    font-family:halo;
+    src: url(FONTES/Halo.ttf);
+}
+
+@font-face {
+    font-family:minecraft;
+    src: url(FONTES/Minecrafter.Reg.ttf);
+}
+
+@font-face {
+    font-family:batman;
+    src: url(FONTES/Arkham_reg.TTF);
+}
+
+@font-face {
+    font-family:rd2;
+    src: url(FONTES/CHINESER.TTF);
+}
